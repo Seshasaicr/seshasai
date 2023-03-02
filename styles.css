@@ -130,7 +130,6 @@ button {
 
 .link--nav {
   color: var(--clr-fg);
-  text-transform: lowercase;
   font-weight: 500;
 }
 
